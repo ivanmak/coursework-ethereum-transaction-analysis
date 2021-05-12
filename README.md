@@ -1,6 +1,8 @@
 # Ethereum Transactions Analysis
 This repository contains the deliverables of a piece of coursework on the analysis of Ethereum transactions, done using MapReduce and Spark.
 
+The description and results of each part are available as the README file in each of the sub-directories.
+
 # Deliverables
 - [./PartA](PartA) - The total and average number of transactions grouped by month
 - [./PartB](PartB) - The most popular smart contracts

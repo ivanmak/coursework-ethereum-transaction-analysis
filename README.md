@@ -58,3 +58,7 @@ The data of known crypto scam addresses were in a JSON file.
 - reporter: User/company who reported the scam first
 - ip: IP address of the reporter
 - status: If the scam is currently active, inactive or has been taken offline
+
+# Grade of the Coursework
+Sorry for sounding arrogant but this was what happened.
+![](./grade.png)

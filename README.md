@@ -4,14 +4,14 @@ This repository contains the deliverables of a piece of coursework on the analys
 The description and results of each part are available as the README file in each of the sub-directories.
 
 # Deliverables
-- [./PartA](PartA) - The total number and average Ether amount of transactions grouped by month
-- [./PartB](PartB) - The most popular smart contracts
-- [./PartC](PartC) - The most active miners
+- [PartA](./PartA) - The total number and average Ether amount of transactions grouped by month
+- [PartB](./PartB) - The most popular smart contracts
+- [PartC](./PartC) - The most active miners
 - Part D - Optional tasks
-    - [./PartD_ForkAnalysis](PartD_ForkAnalysis) - Mapping Ethereum price with forks
-    - [./PartD_GasAnalysis](PartD_GasAnalysis) - Gas price analysis
-    - [./PartD_ScamAnalysis](PartD_ScamAnalysis) - Scam analysis
-- [./Plots.ipynb] - Plots of data generated from various sections
+    - [PartD_ForkAnalysis](./PartD_ForkAnalysis) - Mapping Ethereum price with forks
+    - [PartD_GasAnalysis](./PartD_GasAnalysis) - Gas price analysis
+    - [PartD_ScamAnalysis](./PartD_ScamAnalysis) - Scam analysis
+- [Plots.ipynb](./Plots.ipynb) - Plots of data generated from various sections
 
 # Input data
 The data used in the coursework was stored in a shared HDFS cluster within the university. The data covered the Ethereum network from the genesis block in August 2015 until the end of June 2019.

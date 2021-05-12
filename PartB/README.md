@@ -4,8 +4,8 @@ The requirement of this part was find out the most popular smart contracts on th
 
 ## Deliverables
 The MapReduce programmes produced were:
-* [PartB_hadoop.py](PartB_hadoop.py) - Finding out the most popular smart contracts using MapReduce.
-* [PartB_spark.py](PartB_spark.py) - Finding out the most popular smart contracts using Spark.
+* [PartB_hadoop.py](./PartB_hadoop.py) - Finding out the most popular smart contracts using MapReduce.
+* [PartB_spark.py](./PartB_spark.py) - Finding out the most popular smart contracts using Spark.
 
 ## Results
 Both programme had produced the same results:

@@ -4,8 +4,8 @@ The requirement of this part was find out the most active miners by the size of 
 
 ## Deliverables
 The MapReduce programmes produced were:
-* [PartC_hadoop.py](PartC_hadoop.py) - Finding out the most popular smart contracts using MapReduce.
-* [PartC_spark.py](PartC_spark.py) - Finding out the most popular smart contracts using Spark.
+* [PartC_hadoop.py](./PartC_hadoop.py) - Finding out the most popular smart contracts using MapReduce.
+* [PartC_spark.py](./PartC_spark.py) - Finding out the most popular smart contracts using Spark.
 
 ## Results
 Both programme had produced the same results:

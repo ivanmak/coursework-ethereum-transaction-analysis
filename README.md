@@ -8,9 +8,9 @@ The description and results of each part are available as the README file in eac
 - [./PartB](PartB) - The most popular smart contracts
 - [./PartC](PartC) - The most active miners
 - Part D - Optional tasks
-    - [./PartD_ForkAnalysis](PartD) - Mapping Ethereum price with forks
-    - [./PartD_GasAnalysis](PartD) - Gas price analysis
-    - [./PartD_ScamAnalysis](PartD) - Scam analysis
+    - [./PartD_ForkAnalysis](PartD_ForkAnalysis) - Mapping Ethereum price with forks
+    - [./PartD_GasAnalysis](PartD_GasAnalysis) - Gas price analysis
+    - [./PartD_ScamAnalysis](PartD_ScamAnalysis) - Scam analysis
 
 # Input data
 The data used in the coursework was stored in a shared HDFS cluster within the university. The data covered the Ethereum network from the genesis block in August 2015 until the end of June 2019.

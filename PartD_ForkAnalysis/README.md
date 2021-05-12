@@ -4,6 +4,7 @@ This part was an optional task of the coursework. The task was to find out wheth
 
 ## Deliverable
 - [./PartD_ForkAnalysis.py](PartD_ForkAnalysis.py)
+- [./PartD_Fork.ipynb](PartD_Fork)
 
 ## Results
 A Spark programme “PartD_ForkAnalysis.py” was prepared to extract the Ethereum addresses that received the most Ether since 7 days before each of the forks. Since the forks of EtherGold, Ethereum Modification and EthereumFog happened on the same day, they were counted as the same fork when extracting the data.

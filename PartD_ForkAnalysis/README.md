@@ -3,7 +3,7 @@
 This part was an optional task of the coursework. The task was to find out whether forks had an effect on the price of Ethereum, and to find out the top ten addresses with the most Ethers received prior to each fork.
 
 ## Deliverable
-[./PartD_ForkAnalysis.py](PartD_ForkAnalysis.py)
+- [./PartD_ForkAnalysis.py](PartD_ForkAnalysis.py)
 
 ## Results
 A Spark programme “PartD_ForkAnalysis.py” was prepared to extract the Ethereum addresses that received the most Ether since 7 days before each of the forks. Since the forks of EtherGold, Ethereum Modification and EthereumFog happened on the same day, they were counted as the same fork when extracting the data.

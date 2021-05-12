@@ -3,8 +3,8 @@
 This part was an optional task of the coursework. The task was to analyse the gas price and gas usage on the Ethereum network over time.
 
 ## Deliverable
-[./PartD_GasPrice_Weekly.py](PartD_GasPrice_Weekly.py)
-[./PartD_GasSupplied_WeeklyContract.py](PartD_GasSupplied_WeeklyContract.py)
+- [./PartD_GasPrice_Weekly.py](PartD_GasPrice_Weekly.py)
+- [./PartD_GasSupplied_WeeklyContract.py](PartD_GasSupplied_WeeklyContract.py)
 
 ## Results
 First, we can import the data as a DataFrame and check the annual average gas price. The average gas price has been dropping since the launch of Ethereum in 2015.

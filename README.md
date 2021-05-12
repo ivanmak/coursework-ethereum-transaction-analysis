@@ -4,7 +4,7 @@ This repository contains the deliverables of a piece of coursework on the analys
 The description and results of each part are available as the README file in each of the sub-directories.
 
 # Deliverables
-- [./PartA](PartA) - The total and average number of transactions grouped by month
+- [./PartA](PartA) - The total number and average Ether amount of transactions grouped by month
 - [./PartB](PartB) - The most popular smart contracts
 - [./PartC](PartC) - The most active miners
 - Part D - Optional tasks
